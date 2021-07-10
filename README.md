@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **website coding**
 
-- 🌱 I’m currently learning **Vanilla JS,WordPress,CSS**
+- 🌱 I’m currently learning **JavaScript,WordPress,CSS**
 
 - 📝 I regularly write articles on [https://happy-making.com/](https://happy-making.com/)
 
